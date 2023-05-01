@@ -63,5 +63,4 @@ while True:
         break
     else:
         print("Command is not valid.")
-
 print("Bye")
